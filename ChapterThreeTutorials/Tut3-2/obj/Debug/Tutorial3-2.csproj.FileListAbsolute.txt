@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tut3-2\obj\Debug\Tut3_2.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tut3-2\obj\Debug\Tutorial3-2.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tut3-2\obj\Debug\Tutorial3-2.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tut3-2\obj\Debug\Tut3_2.FuelCalculator2.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tut3-2\bin\Debug\Tut3-2.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tut3-2\bin\Debug\Tut3-2.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tut3-2\bin\Debug\Tut3-2.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tut3-2\obj\Debug\Tut3-2.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tut3-2\obj\Debug\Tut3-2.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tut3-2\obj\Debug\Tutorial3-2.csprojResolveAssemblyReference.cache

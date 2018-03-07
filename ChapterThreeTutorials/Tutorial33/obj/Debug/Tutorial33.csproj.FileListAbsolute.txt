@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial33\bin\Debug\Tutorial33.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial33\bin\Debug\Tutorial33.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial33\bin\Debug\Tutorial33.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial33\obj\Debug\Tutorial33.SalePriceCalc.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial33\obj\Debug\Tutorial33.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial33\obj\Debug\Tutorial33.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial33\obj\Debug\Tutorial33.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial33\obj\Debug\Tutorial33.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial33\obj\Debug\Tutorial33.pdb

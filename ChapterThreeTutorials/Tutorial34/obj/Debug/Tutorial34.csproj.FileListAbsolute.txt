@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial34\bin\Debug\Tutorial34.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial34\bin\Debug\Tutorial34.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial34\bin\Debug\Tutorial34.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial34\obj\Debug\Tutorial34.TestAverage.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial34\obj\Debug\Tutorial34.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial34\obj\Debug\Tutorial34.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial34\obj\Debug\Tutorial34.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial34\obj\Debug\Tutorial34.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial34\obj\Debug\Tutorial34.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial34\obj\Debug\Tutorial34.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\ChapterThreeTutorials\bin\Debug\ChapterThreeTutorials.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\ChapterThreeTutorials\bin\Debug\ChapterThreeTutorials.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\ChapterThreeTutorials\bin\Debug\ChapterThreeTutorials.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\ChapterThreeTutorials\obj\Debug\ChapterThreeTutorials.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\ChapterThreeTutorials\obj\Debug\ChapterThreeTutorials.Form1.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\ChapterThreeTutorials\obj\Debug\Tutorial 3-1.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\ChapterThreeTutorials\obj\Debug\Tutorial 3-1.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\ChapterThreeTutorials\obj\Debug\ChapterThreeTutorials.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\ChapterThreeTutorials\obj\Debug\ChapterThreeTutorials.pdb
