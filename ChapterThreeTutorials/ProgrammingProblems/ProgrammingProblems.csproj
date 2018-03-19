@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{29561731-6124-4C5F-8AAE-1DD405F1F813}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProgrammingProblems</RootNamespace>
+    <AssemblyName>ProgrammingProblems</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutomobileCosts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutomobileCosts.Designer.cs">
+      <DependentUpon>AutomobileCosts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BodyMassIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BodyMassIndex.Designer.cs">
+      <DependentUpon>BodyMassIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalorieCounter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalorieCounter.Designer.cs">
+      <DependentUpon>CalorieCounter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CookieCalories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CookieCalories.Designer.cs">
+      <DependentUpon>CookieCalories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Directory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Directory.Designer.cs">
+      <DependentUpon>Directory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DistanceTraveled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DistanceTraveled.Designer.cs">
+      <DependentUpon>DistanceTraveled.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HowMuchInsurance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HowMuchInsurance.Designer.cs">
+      <DependentUpon>HowMuchInsurance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NameFormatter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NameFormatter.Designer.cs">
+      <DependentUpon>NameFormatter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaintJobEstimator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaintJobEstimator.Designer.cs">
+      <DependentUpon>PaintJobEstimator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PropertyTax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PropertyTax.Designer.cs">
+      <DependentUpon>PropertyTax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesTaxandTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesTaxandTotal.Designer.cs">
+      <DependentUpon>SalesTaxandTotal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TemperatureConverter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TemperatureConverter.Designer.cs">
+      <DependentUpon>TemperatureConverter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipTaxandTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipTaxandTotal.Designer.cs">
+      <DependentUpon>TipTaxandTotal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AutomobileCosts.resx">
+      <DependentUpon>AutomobileCosts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BodyMassIndex.resx">
+      <DependentUpon>BodyMassIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalorieCounter.resx">
+      <DependentUpon>CalorieCounter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CookieCalories.resx">
+      <DependentUpon>CookieCalories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Directory.resx">
+      <DependentUpon>Directory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DistanceTraveled.resx">
+      <DependentUpon>DistanceTraveled.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HowMuchInsurance.resx">
+      <DependentUpon>HowMuchInsurance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NameFormatter.resx">
+      <DependentUpon>NameFormatter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaintJobEstimator.resx">
+      <DependentUpon>PaintJobEstimator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PropertyTax.resx">
+      <DependentUpon>PropertyTax.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesTaxandTotal.resx">
+      <DependentUpon>SalesTaxandTotal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TemperatureConverter.resx">
+      <DependentUpon>TemperatureConverter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipTaxandTotal.resx">
+      <DependentUpon>TipTaxandTotal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

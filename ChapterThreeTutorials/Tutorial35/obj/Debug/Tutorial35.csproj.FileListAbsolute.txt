@@ -7,3 +7,13 @@ C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\
 C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial35\obj\Debug\Tutorial35.csproj.CoreCompileInputs.cache
 C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial35\obj\Debug\Tutorial35.exe
 C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\Tutorial35\obj\Debug\Tutorial35.pdb
+C:\Users\MTCStudent\Desktop\Completed Items\ChapterThreeTutorials\Tutorial35\bin\Debug\Tutorial35.exe.config
+C:\Users\MTCStudent\Desktop\Completed Items\ChapterThreeTutorials\Tutorial35\bin\Debug\Tutorial35.exe
+C:\Users\MTCStudent\Desktop\Completed Items\ChapterThreeTutorials\Tutorial35\bin\Debug\Tutorial35.pdb
+C:\Users\MTCStudent\Desktop\Completed Items\ChapterThreeTutorials\Tutorial35\obj\Debug\Tutorial35.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\Completed Items\ChapterThreeTutorials\Tutorial35\obj\Debug\Tutorial35.ChangeCounter.resources
+C:\Users\MTCStudent\Desktop\Completed Items\ChapterThreeTutorials\Tutorial35\obj\Debug\Tutorial35.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\Completed Items\ChapterThreeTutorials\Tutorial35\obj\Debug\Tutorial35.csproj.GenerateResource.cache
+C:\Users\MTCStudent\Desktop\Completed Items\ChapterThreeTutorials\Tutorial35\obj\Debug\Tutorial35.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\Completed Items\ChapterThreeTutorials\Tutorial35\obj\Debug\Tutorial35.exe
+C:\Users\MTCStudent\Desktop\Completed Items\ChapterThreeTutorials\Tutorial35\obj\Debug\Tutorial35.pdb
